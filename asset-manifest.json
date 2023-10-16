@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-plants-theme/static/css/main.7bf336f2.css",
+    "main.js": "/my-plants-theme/static/js/main.28097fc0.js",
+    "static/media/testimonial-2.jpg": "/my-plants-theme/static/media/testimonial-2.d6c3a90d33937f4888af.jpg",
+    "static/media/CTA-bg.jpg": "/my-plants-theme/static/media/CTA-bg.2ce118a6ec8e7e0b3730.jpg",
+    "static/media/hero-bg.jpg": "/my-plants-theme/static/media/hero-bg.d67f90f4e8af1dcc5cc4.jpg",
+    "static/media/plant4-free-img.jpg": "/my-plants-theme/static/media/plant4-free-img.f917473f849678206bcb.jpg",
+    "static/media/plant6-free-img.jpg": "/my-plants-theme/static/media/plant6-free-img.f823285a561e5f49ea9a.jpg",
+    "static/media/user1-free-img.jpg": "/my-plants-theme/static/media/user1-free-img.d9760d2c0903c77e04b3.jpg",
+    "static/media/user3-free-img.jpg": "/my-plants-theme/static/media/user3-free-img.3077223a1d35f491566c.jpg",
+    "static/media/plant3-free-img-768x768.jpg": "/my-plants-theme/static/media/plant3-free-img-768x768.25780eb05aa2a2b4f99d.jpg",
+    "static/media/cactus2-free-img.jpg": "/my-plants-theme/static/media/cactus2-free-img.0bb94fdc550183aac4ef.jpg",
+    "index.html": "/my-plants-theme/index.html",
+    "main.7bf336f2.css.map": "/my-plants-theme/static/css/main.7bf336f2.css.map",
+    "main.28097fc0.js.map": "/my-plants-theme/static/js/main.28097fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf336f2.css",
+    "static/js/main.28097fc0.js"
+  ]
+}
